@@ -11,7 +11,7 @@ import "github.com/crossplane/upjet/v2/pkg/config"
 // provider.
 var ExternalNameConfigs = map[string]config.ExternalName{
 	// Import requires using a randomly generated ID from provider: nl-2e21sda
-	"hlb_load_balancer": config.IdentifierFromProvider,
+	"hlb_listener_attachment": config.IdentifierFromProvider,
 }
 
 // ExternalNameConfigurations applies all external name configs listed in the
