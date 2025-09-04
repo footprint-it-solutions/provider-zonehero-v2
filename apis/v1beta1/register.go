@@ -13,7 +13,7 @@ import (
 
 // Package type metadata.
 const (
-	Group   = "template.upbound.io"
+	Group   = "zonehero-v2.footprintit.net"
 	Version = "v1beta1"
 )
 

@@ -1,4 +1,4 @@
-apiVersion: null.template.upbound.io/v1alpha1
+apiVersion: null.zonehero-v2.upbound.io/v1alpha1
 kind: Resource
 metadata:
   annotations:
